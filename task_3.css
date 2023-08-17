@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
 }
+html
+{
+    scroll-behavior: smooth;
+}
+}
 .main
 {
     background-image: linear-gradient(rgb(124, 184, 181), rgb(206, 168, 174), rgb(36, 22, 22));
